@@ -1,4 +1,4 @@
-lesson-structure
+lesson-framework
 ==============
 
 # Introduction
